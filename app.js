@@ -1,4 +1,4 @@
-const endDate="1 jan 2022"
+const endDate="1 jan 2023"
 const textTime=document.querySelector(".time")
 function countDown(){
     const newYear= new Date(endDate);
